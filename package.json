@@ -1,0 +1,18 @@
+{
+  "author": "Addison Higham <addisonj@gmail.com> (github.com/addisonj)",
+  "name": "express-cache-control",
+  "description": "A small middleware library for setting cache control headers",
+  "version": "0.0.0",
+  "homepage": "github.com/idottv/express-cache-control",
+  "repository": {
+    "type": "git",
+    "url": "github.com/idottv/express-cache-control.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
